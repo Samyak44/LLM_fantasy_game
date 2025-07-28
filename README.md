@@ -64,6 +64,9 @@ Now go to:
 http://127.0.0.1:8000/status
 http://127.0.0.1:8000/generate?prompt=Ash
 
+Result: On average, the model’s loss during training was 0.9934 below 1 — a decent value for text generation. Lower is generally better. Epoch was 3 therefore model saw your dataset 3 times in total.
+The loss of ~0.99 indicates that your fine-tuned model learned some structure in your fantasy name dataset.
+Since we only trained for 3 epochs on 1,000 names, it’s enough to generate fantasy-like names, 
 
 What I'd Improve with More Time/Resources
 Use LoRA or PEFT to reduce training cost
