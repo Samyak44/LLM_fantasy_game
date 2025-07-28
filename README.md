@@ -40,7 +40,7 @@ Generate new names based on prompts (/generate?prompt=Ash)
 Google Colab
 First need to run the training model in Google colab. 
 •	Upload your dataset (e.g., fantasy_names_1000.txt)
-•	Run fine-tuning code (see Colab notebook)
+•	Run fine-tuning code (see Colab notebook) Get the API key to run the code from wandb.
 •	Download or save model to Google Drive
 •	Now will be able to run the model on Vs-code and check the API.
 
