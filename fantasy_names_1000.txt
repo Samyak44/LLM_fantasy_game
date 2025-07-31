@@ -1,0 +1,1000 @@
+AshBane
+AshBane the Thunderous
+AshBlade
+AshBorn
+AshBorn the Cindering
+AshBorn the Molten
+AshBornKnight
+AshBornWarrior
+AshBreaker
+AshBreakerClaw
+AshBreakerSlayer
+AshClaw
+AshClawSlayer
+AshFang
+AshFangsSlayer the Unyielding
+AshFangsStorm the Smoldering
+AshFireSentinel
+AshFlame the Blazing
+AshFlame the Molten
+AshHeartStorm
+AshHunter
+AshHunter the Unyielding
+AshHunterBreaker
+AshHunterLord
+AshHunterVanguard the Fierce
+AshReaper
+AshReaperSlayer
+AshScale
+AshScaleFiend
+AshShadow
+AshShadow the Fiery
+AshShadowKing
+AshShadowMage
+AshSoulBerserker the Molten
+AshSoulFiend
+AshStormFiend the Molten
+AshStormQueen
+AshStormWarrior
+AshStrike
+AshStrike the Fierce
+AshStrikeBreaker the Scorched
+AshStrikeKnight
+AshStrikeRanger
+AshStrikeSlayer the Thunderous
+AshTalon
+AshTalonSlayer
+AshWing
+AshWingWarrior the Infernal
+AshWrath
+AshWrath the Charred
+AshWrath the Infernal
+AshWrathFiend
+AshWrathKnight
+BlazeBane
+BlazeBaneLord the Fierce
+BlazeBlade
+BlazeBladeBerserker the Scorched
+BlazeBladeFiend
+BlazeBladeLord
+BlazeBorn
+BlazeBornHunter
+BlazeBornRanger the Fiery
+BlazeBornVanguard the Dragonborn
+BlazeBornWarrior the Burning
+BlazeClawGuardian
+BlazeClawKnight the Charred
+BlazeClawMage
+BlazeClawStorm
+BlazeFang
+BlazeFangGuardian
+BlazeFangsQueen
+BlazeFangsVanguard
+BlazeFireWarden
+BlazeFlame
+BlazeFlame the Dragonborn
+BlazeFlame the Searing
+BlazeFlameHunter
+BlazeFlameKnight the Flaming
+BlazeHeart
+BlazeHeart the Dragonborn
+BlazeHeart the Fierce
+BlazeHeartGuardian
+BlazeHunter
+BlazeHunterSentinel
+BlazeReaperBreaker
+BlazeScale
+BlazeScaleBerserker
+BlazeScaleHunter
+BlazeScaleKnight
+BlazeShadow
+BlazeShadowFiend the Molten
+BlazeSoul
+BlazeSoul the Infernal
+BlazeStorm the Wild
+BlazeStormBlade the Thunderous
+BlazeStormSlayer
+BlazeStrikeClaw
+BlazeStrikeKnight
+BlazeTalonSentinel
+BlazeTalonVanguard
+BlazeWing
+BurnBane
+BurnBaneMage
+BurnBaneSentinel
+BurnBlade
+BurnBladeRanger the Molten
+BurnBladeSlayer
+BurnBorn
+BurnBreaker
+BurnBreakerVanguard
+BurnClaw
+BurnClawVanguard
+BurnFangBlade the Fiery
+BurnFangSentinel the Charred
+BurnFire the Fierce
+BurnFireClaw
+BurnFireVanguard
+BurnFlame
+BurnFlameClaw
+BurnFlameMage
+BurnHeart the Burning
+BurnHeartBreaker
+BurnHunter
+BurnHunterRanger the Burning
+BurnReaperQueen
+BurnReaperQueen the Cindering
+BurnScale the Blazing
+BurnShadow
+BurnShadowLord
+BurnShadowStorm
+BurnSoul the Molten
+BurnStorm
+BurnStormWarden
+BurnStrike
+BurnStrike the Cindering
+BurnTalon
+BurnTalonKing
+BurnTalonVanguard the Unyielding
+BurnWing
+BurnWrath the Fierce
+CharBane
+CharBaneWarrior
+CharBlade
+CharBlade the Fiery
+CharBladeBlade the Wild
+CharBladeQueen
+CharBorn
+CharBornFiend the Molten
+CharBornQueen
+CharBreaker
+CharBreaker the Smoldering
+CharClaw
+CharClawMage
+CharFang
+CharFang the Infernal
+CharFang the Smoldering
+CharFangs
+CharFangs the Wild
+CharFire
+CharFire the Thunderous
+CharFireChampion
+CharFireGuardian the Searing
+CharFireKing
+CharFireWarden the Fierce
+CharFlame
+CharFlame the Unyielding
+CharFlameChampion
+CharHeart
+CharHunter the Fiery
+CharHunterSlayer
+CharHunterStorm
+CharReaperChampion
+CharReaperFiend
+CharReaperKing the Dragonborn
+CharScale
+CharScale the Blazing
+CharShadow
+CharSoul
+CharSoulWarrior the Charred
+CharStorm the Flaming
+CharStormBerserker
+CharStormClaw
+CharStrike
+CharTalon
+CharTalon the Searing
+CharTalon the Stormborn
+CharWing
+CharWingSlayer the Flaming
+CharWrath
+CharWrath the Unyielding
+CharWrathChampion
+CharWrathFiend the Scorched
+CharWrathStorm
+CinderBane
+CinderBane the Burning
+CinderBaneSentinel
+CinderBorn
+CinderBornKing
+CinderBreaker
+CinderBreakerKnight
+CinderClaw
+CinderClaw the Burning
+CinderClawChampion
+CinderClawLord
+CinderFang
+CinderFangBerserker
+CinderFangs
+CinderFangs the Scorched
+CinderFangsMage
+CinderFire
+CinderFire the Unyielding
+CinderFlameSlayer the Stormborn
+CinderHeart
+CinderHeartGuardian
+CinderHeartSentinel
+CinderHunter
+CinderHunterQueen the Searing
+CinderReaper the Smoldering
+CinderReaperRanger
+CinderScale
+CinderShadow
+CinderShadowBreaker
+CinderStorm
+CinderStormBerserker
+CinderStormFiend
+CinderStormWarden the Wild
+CinderTalon
+CinderTalonLord the Wild
+CinderTalonVanguard
+CinderWing
+CinderWing the Blazing
+CinderWingClaw
+CinderWingStorm
+CinderWrath the Blazing
+CinderWrath the Infernal
+CinderWrath the Molten
+CinderWrathBerserker the Flaming
+CinderWrathQueen the Fiery
+DragonBaneLord
+DragonBaneWarrior
+DragonBlade
+DragonBorn
+DragonBornBlade the Flaming
+DragonBreaker
+DragonBreaker the Blazing
+DragonBreakerBerserker
+DragonBreakerHunter
+DragonBreakerKing
+DragonClaw the Blazing
+DragonClawBerserker
+DragonClawRanger
+DragonClawSentinel the Dragonborn
+DragonFang
+DragonFangBlade
+DragonFangRanger
+DragonFangStorm
+DragonFangs
+DragonFire
+DragonFire the Cindering
+DragonFlame
+DragonFlame the Charred
+DragonFlameKing
+DragonFlameMage
+DragonFlameSlayer
+DragonFlameVanguard the Charred
+DragonHeart the Unyielding
+DragonHunter
+DragonHunterBlade
+DragonHunterHunter the Cindering
+DragonReaper
+DragonReaperWarden
+DragonScale
+DragonScaleBlade the Unyielding
+DragonScaleHunter
+DragonScaleKing
+DragonScaleMage
+DragonScaleSentinel
+DragonShadow
+DragonSoulHunter
+DragonStorm
+DragonStormKing the Burning
+DragonStrike
+DragonStrike the Dragonborn
+DragonStrikeBreaker
+DragonTalon the Smoldering
+DragonTalonStorm
+DragonWing
+DragonWing the Cindering
+DragonWingBerserker
+DragonWrath
+DrakeBane the Cindering
+DrakeBaneLord
+DrakeBladeGuardian
+DrakeBladeKing the Burning
+DrakeBorn
+DrakeBornWarden
+DrakeBreaker
+DrakeBreakerBlade the Cindering
+DrakeBreakerBreaker
+DrakeBreakerWarden
+DrakeClaw
+DrakeClawBlade
+DrakeClawSlayer
+DrakeFangKing
+DrakeFangMage
+DrakeFangWarden the Searing
+DrakeFangs
+DrakeFire the Flaming
+DrakeFireBlade
+DrakeFireFiend the Stormborn
+DrakeFlame
+DrakeFlameLord the Cindering
+DrakeHeart
+DrakeHeartFiend
+DrakeHeartGuardian
+DrakeHunter
+DrakeHunterClaw
+DrakeHunterKing the Scorched
+DrakeHunterKnight
+DrakeHunterWarden
+DrakeReaper
+DrakeReaperFiend the Flaming
+DrakeScale
+DrakeScale the Cindering
+DrakeScaleHunter
+DrakeScaleKnight the Fierce
+DrakeScaleWarrior
+DrakeShadow the Infernal
+DrakeShadowChampion
+DrakeSoul the Wild
+DrakeStormLord the Infernal
+DrakeStrike
+DrakeTalon
+DrakeTalon the Thunderous
+DrakeTalonMage
+DrakeWing
+DrakeWing the Cindering
+DrakeWrathMage
+EmberBane
+EmberBane the Unyielding
+EmberBaneWarrior
+EmberBlade
+EmberBladeHunter the Stormborn
+EmberBladeStorm
+EmberBorn
+EmberBorn the Scorched
+EmberBornChampion the Burning
+EmberBornVanguard the Infernal
+EmberBreaker
+EmberClaw the Molten
+EmberClaw the Stormborn
+EmberClawBerserker
+EmberClawHunter
+EmberFangKnight
+EmberFangQueen
+EmberFangSlayer
+EmberFangs
+EmberFangsBreaker the Fierce
+EmberFangsHunter
+EmberFangsStorm the Blazing
+EmberFangsWarden
+EmberFire
+EmberFireBlade
+EmberFlame
+EmberFlameFiend the Flaming
+EmberFlameStorm
+EmberHeart the Smoldering
+EmberHeart the Unyielding
+EmberHeartFiend
+EmberHeartSentinel
+EmberHunter
+EmberHunter the Fierce
+EmberReaper
+EmberShadow
+EmberShadow the Ashen
+EmberShadow the Stormborn
+EmberShadowBerserker
+EmberShadowKing
+EmberShadowQueen the Fiery
+EmberSoulBreaker
+EmberSoulBreaker the Ashen
+EmberSoulKnight
+EmberStormSentinel
+EmberStrike
+EmberStrike the Dragonborn
+EmberStrikeFiend
+EmberTalon
+EmberTalon the Charred
+EmberTalonQueen
+EmberWing
+EmberWingBreaker the Stormborn
+EmberWingKnight
+EmberWrath
+EmberWrath the Smoldering
+EmberWrathStorm
+FireBane
+FireBaneBlade the Molten
+FireBlade
+FireBladeWarden
+FireBorn
+FireBorn the Thunderous
+FireBornClaw
+FireBreaker
+FireBreakerGuardian
+FireClaw
+FireClaw the Burning
+FireClawLord
+FireClawVanguard
+FireFang
+FireFangBerserker
+FireFangs
+FireFangsBerserker
+FireFire
+FireFlame
+FireFlame the Charred
+FireFlameVanguard the Searing
+FireHeartBerserker the Searing
+FireHunter
+FireHunterChampion
+FireHunterGuardian
+FireReaper
+FireScale
+FireShadowQueen
+FireSoulClaw the Molten
+FireSoulGuardian
+FireStorm the Searing
+FireStormKnight
+FireStormVanguard
+FireStrike the Molten
+FireStrikeRanger the Unyielding
+FireTalon
+FireWing
+FireWing the Smoldering
+FireWing the Stormborn
+FireWing the Wild
+FireWingVanguard
+FireWrath
+FireWrathFiend
+FlameBane
+FlameBaneKing
+FlameBlade
+FlameBladeChampion the Fierce
+FlameBladeGuardian
+FlameBladeStorm
+FlameBorn
+FlameBornBerserker
+FlameBornQueen
+FlameBreaker
+FlameBreaker the Burning
+FlameBreaker the Flaming
+FlameBreakerLord
+FlameClaw
+FlameClaw the Flaming
+FlameClawHunter
+FlameClawQueen the Charred
+FlameFang
+FlameFangs
+FlameFangs the Dragonborn
+FlameFangsBreaker
+FlameFire the Charred
+FlameFlameClaw
+FlameFlameLord
+FlameHeart
+FlameHeartFiend
+FlameHeartHunter the Thunderous
+FlameHeartWarden the Dragonborn
+FlameHunter
+FlameHunter the Smoldering
+FlameHunterKing
+FlameScaleChampion
+FlameScaleSentinel
+FlameShadow
+FlameShadowBlade
+FlameShadowBlade the Fiery
+FlameShadowKnight the Charred
+FlameSoul
+FlameSoulQueen the Blazing
+FlameStorm
+FlameStormClaw
+FlameStormQueen
+FlameTalon
+FlameTalonChampion
+FlameTalonLord
+FlameTalonWarden
+FlameWing
+FlameWingSlayer the Wild
+FlameWrath
+FlameWrathClaw
+FuryBane
+FuryBorn
+FuryBornQueen
+FuryBornVanguard
+FuryBreaker
+FuryBreakerBreaker
+FuryBreakerClaw
+FuryBreakerFiend
+FuryBreakerRanger
+FuryClaw
+FuryClawGuardian
+FuryClawKnight
+FuryFang the Cindering
+FuryFangsBreaker
+FuryFangsBreaker the Infernal
+FuryFangsQueen the Burning
+FuryFireFiend
+FuryFireVanguard
+FuryFlame the Searing
+FuryFlameBlade
+FuryFlameQueen the Fiery
+FuryFlameSentinel the Molten
+FuryFlameSlayer
+FuryHeartBerserker
+FuryHeartStorm
+FuryHunter
+FuryHunterStorm
+FuryHunterWarden the Charred
+FuryScale the Wild
+FuryScaleClaw
+FuryShadow
+FuryShadowBreaker the Scorched
+FuryStorm
+FuryStrike
+FuryStrikeBerserker the Flaming
+FuryStrikeMage
+FuryTalon
+FuryTalonFiend
+FuryWing
+FuryWingWarden
+FuryWrath
+FuryWrath the Cindering
+FuryWrathBreaker
+InfernoBane
+InfernoBaneFiend
+InfernoBaneFiend the Thunderous
+InfernoBaneGuardian the Dragonborn
+InfernoBaneSlayer the Flaming
+InfernoBlade
+InfernoBladeQueen
+InfernoBorn
+InfernoBreaker
+InfernoBreakerChampion the Infernal
+InfernoBreakerStorm
+InfernoClaw the Burning
+InfernoClaw the Cindering
+InfernoClawLord
+InfernoFang
+InfernoFang the Thunderous
+InfernoFangFiend
+InfernoFangSlayer
+InfernoFangStorm
+InfernoFangs
+InfernoFangs the Wild
+InfernoFangsBreaker
+InfernoFangsClaw the Cindering
+InfernoFire
+InfernoFlameSlayer
+InfernoHeartMage
+InfernoHunter
+InfernoReaper
+InfernoReaperChampion the Wild
+InfernoReaperQueen
+InfernoScaleFiend
+InfernoScaleHunter the Charred
+InfernoShadowBerserker
+InfernoShadowSentinel
+InfernoShadowVanguard
+InfernoShadowWarden
+InfernoSoul
+InfernoSoul the Molten
+InfernoSoulMage
+InfernoSoulSentinel
+InfernoSoulSlayer
+InfernoStorm
+InfernoStormStorm the Wild
+InfernoStormVanguard
+InfernoTalon
+InfernoTalonBreaker
+InfernoTalonFiend
+InfernoWing
+InfernoWingSlayer
+InfernoWrath
+InfernoWrath the Ashen
+InfernoWrath the Smoldering
+MoltenBane
+MoltenBaneBreaker
+MoltenBaneHunter
+MoltenBlade
+MoltenBlade the Charred
+MoltenBlade the Thunderous
+MoltenBlade the Unyielding
+MoltenBladeBerserker
+MoltenBorn the Infernal
+MoltenBornChampion the Cindering
+MoltenBreaker the Scorched
+MoltenBreaker the Wild
+MoltenBreakerVanguard
+MoltenFang
+MoltenFang the Smoldering
+MoltenFangQueen
+MoltenFangs
+MoltenFangs the Blazing
+MoltenFangsKnight
+MoltenFire the Ashen
+MoltenFire the Dragonborn
+MoltenFire the Molten
+MoltenFireBlade
+MoltenFireLord the Molten
+MoltenFlame
+MoltenFlameBerserker
+MoltenHeart
+MoltenReaper
+MoltenReaper the Unyielding
+MoltenReaperClaw
+MoltenReaperLord
+MoltenScale
+MoltenShadow
+MoltenShadow the Stormborn
+MoltenShadowHunter
+MoltenSoul
+MoltenSoul the Unyielding
+MoltenSoulBlade
+MoltenSoulHunter
+MoltenSoulVanguard
+MoltenStorm
+MoltenStorm the Unyielding
+MoltenStormGuardian the Charred
+MoltenStormRanger the Burning
+MoltenStrikeRanger
+MoltenStrikeSlayer
+MoltenTalon
+MoltenTalon the Cindering
+MoltenTalonSlayer
+MoltenWingChampion
+MoltenWrath
+MoltenWrath the Fierce
+MoltenWrathGuardian the Charred
+MoltenWrathMage the Flaming
+PyroBane
+PyroBaneClaw
+PyroBladeHunter the Charred
+PyroBladeVanguard the Charred
+PyroBorn
+PyroBreaker the Burning
+PyroBreakerBerserker the Dragonborn
+PyroBreakerLord
+PyroFang
+PyroFangRanger
+PyroFangSentinel
+PyroFangVanguard
+PyroFangs the Unyielding
+PyroFangsGuardian
+PyroFangsMage
+PyroFireBerserker
+PyroFireHunter the Dragonborn
+PyroFlame the Thunderous
+PyroFlameSlayer
+PyroFlameVanguard
+PyroHeart the Fiery
+PyroHeartSentinel
+PyroHunter
+PyroHunter the Blazing
+PyroHunterBerserker the Thunderous
+PyroReaper
+PyroReaper the Ashen
+PyroReaper the Smoldering
+PyroReaperChampion
+PyroReaperSentinel
+PyroReaperStorm
+PyroReaperStorm the Molten
+PyroScale
+PyroScaleSlayer the Burning
+PyroShadow
+PyroShadowStorm the Searing
+PyroSoul
+PyroSoulFiend
+PyroStorm
+PyroStorm the Molten
+PyroStormFiend
+PyroStormFiend the Fierce
+PyroStormLord
+PyroStrikeMage
+PyroTalon
+PyroTalon the Dragonborn
+PyroTalonStorm the Fierce
+PyroWing
+PyroWing the Stormborn
+PyroWingChampion the Burning
+PyroWingKing
+PyroWingKing the Infernal
+PyroWingSlayer
+PyroWrath
+ScorchBane
+ScorchBaneBlade
+ScorchBaneWarden
+ScorchBlade
+ScorchBlade the Ashen
+ScorchBlade the Dragonborn
+ScorchBlade the Stormborn
+ScorchBladeWarden
+ScorchBorn
+ScorchBornFiend
+ScorchBornQueen the Fiery
+ScorchBreaker the Ashen
+ScorchBreaker the Flaming
+ScorchBreakerBerserker
+ScorchBreakerMage
+ScorchFangChampion
+ScorchFangSentinel the Infernal
+ScorchFangWarden
+ScorchFangs
+ScorchFangs the Infernal
+ScorchFangs the Thunderous
+ScorchFire
+ScorchFlameFiend
+ScorchFlameQueen the Unyielding
+ScorchHeart
+ScorchHeart the Unyielding
+ScorchHeartKnight
+ScorchHunter the Ashen
+ScorchHunter the Thunderous
+ScorchHunterBreaker the Stormborn
+ScorchHunterLord
+ScorchHunterSentinel the Scorched
+ScorchScaleClaw the Stormborn
+ScorchScaleSlayer
+ScorchShadow the Scorched
+ScorchShadowMage
+ScorchSoulQueen the Stormborn
+ScorchStorm
+ScorchStormBreaker
+ScorchStrike
+ScorchStrikeSentinel
+ScorchTalon the Searing
+ScorchWing the Stormborn
+ScorchWingKing
+ScorchWrath
+ScorchWrathChampion
+ScorchWrathFiend the Stormborn
+ScorchWrathMage
+SearBaneChampion the Flaming
+SearBaneKnight
+SearBaneMage
+SearBlade
+SearBladeHunter
+SearBorn
+SearBorn the Scorched
+SearBorn the Searing
+SearBreakerBlade the Fiery
+SearBreakerGuardian the Wild
+SearBreakerMage
+SearClaw
+SearClaw the Stormborn
+SearClawChampion
+SearClawQueen
+SearFang
+SearFangLord
+SearFangs
+SearFangsStorm
+SearFire
+SearFireSlayer
+SearFlame
+SearFlame the Searing
+SearFlame the Smoldering
+SearHeart
+SearHeartKnight the Charred
+SearReaper
+SearReaperClaw
+SearReaperFiend
+SearReaperSlayer the Molten
+SearScale
+SearScale the Ashen
+SearScaleGuardian
+SearShadow
+SearShadowMage
+SearShadowSlayer the Wild
+SearSoul
+SearSoul the Blazing
+SearSoulGuardian
+SearSoulVanguard
+SearStorm
+SearStorm the Dragonborn
+SearStormBerserker
+SearStormChampion
+SearStrikeBerserker
+SearStrikeMage the Fiery
+SearStrikeWarrior
+SearTalonLord the Searing
+SearTalonQueen
+SearTalonRanger the Fiery
+SearTalonSentinel the Charred
+SearWing the Cindering
+SearWrath
+SearWrath the Scorched
+SearWrathRanger
+SmolderBane
+SmolderBaneGuardian the Cindering
+SmolderBaneSentinel
+SmolderBaneVanguard
+SmolderBlade the Scorched
+SmolderBladeSlayer
+SmolderBornLord
+SmolderBreaker
+SmolderBreakerGuardian
+SmolderClaw
+SmolderClawFiend the Burning
+SmolderClawKnight
+SmolderFang
+SmolderFangs
+SmolderFangsWarrior the Unyielding
+SmolderFireKing
+SmolderFireRanger
+SmolderFireStorm
+SmolderFlame
+SmolderHeartKing
+SmolderHeartWarden the Scorched
+SmolderHunter the Blazing
+SmolderHunter the Flaming
+SmolderReaper
+SmolderReaper the Wild
+SmolderScale
+SmolderScaleBlade
+SmolderScaleKnight the Stormborn
+SmolderScaleStorm
+SmolderShadow
+SmolderShadow the Fierce
+SmolderShadowChampion
+SmolderShadowGuardian
+SmolderShadowLord
+SmolderShadowSentinel
+SmolderShadowWarrior
+SmolderSoul
+SmolderSoul the Unyielding
+SmolderStorm
+SmolderStorm the Ashen
+SmolderStormChampion
+SmolderStormLord
+SmolderStormWarden the Flaming
+SmolderTalon
+SmolderTalon the Burning
+SmolderTalon the Searing
+SmolderTalonFiend
+SmolderWing
+SmolderWingQueen
+SmolderWrathChampion the Burning
+SmolderWrathStorm
+StormBaneFiend
+StormBaneQueen
+StormBlade
+StormBlade the Fierce
+StormBladeVanguard the Smoldering
+StormBorn
+StormBorn the Fiery
+StormBornGuardian
+StormBreaker
+StormClaw the Blazing
+StormClaw the Cindering
+StormFang
+StormFang the Blazing
+StormFangSlayer
+StormFangsWarden
+StormFire
+StormFire the Blazing
+StormFire the Scorched
+StormFireBlade the Flaming
+StormFlame
+StormFlame the Charred
+StormFlameBreaker
+StormFlameHunter
+StormFlameWarrior the Molten
+StormHeart
+StormHeartBlade
+StormHunter
+StormReaper
+StormReaperBerserker the Blazing
+StormScale
+StormShadow
+StormShadowBerserker the Ashen
+StormShadowClaw
+StormSoul
+StormSoulBreaker
+StormSoulStorm
+StormSoulWarden the Flaming
+StormSoulWarden the Smoldering
+StormStorm
+StormStormQueen the Searing
+StormStormWarrior
+StormStrikeStorm
+StormStrikeVanguard
+StormTalon the Infernal
+StormWing
+StormWingKnight
+StormWingQueen the Dragonborn
+StormWingSlayer
+StormWrath
+StormWrathHunter
+StormWrathKnight the Infernal
+StormWrathSlayer
+ThunderBane
+ThunderBaneHunter
+ThunderBlade
+ThunderBladeLord the Infernal
+ThunderBladeSentinel the Flaming
+ThunderBorn
+ThunderBornBerserker the Unyielding
+ThunderBornBlade
+ThunderBreaker
+ThunderBreaker the Fierce
+ThunderBreakerSlayer
+ThunderClawFiend the Burning
+ThunderFang
+ThunderFangLord the Flaming
+ThunderFangs
+ThunderFangsWarrior
+ThunderFire
+ThunderFire the Searing
+ThunderFireBerserker
+ThunderFlame
+ThunderFlame the Scorched
+ThunderFlame the Smoldering
+ThunderHeart
+ThunderHeartHunter
+ThunderHeartKing
+ThunderHeartVanguard
+ThunderHunter
+ThunderHunterBreaker
+ThunderHunterChampion
+ThunderReaper
+ThunderScale
+ThunderScale the Thunderous
+ThunderScaleBreaker
+ThunderScaleClaw the Molten
+ThunderScaleStorm
+ThunderShadowBreaker
+ThunderShadowWarden
+ThunderSoul
+ThunderSoul the Blazing
+ThunderSoulQueen the Fiery
+ThunderStorm the Dragonborn
+ThunderStormBlade
+ThunderStrike
+ThunderStrike the Cindering
+ThunderStrikeRanger
+ThunderStrikeWarrior
+ThunderTalon
+ThunderTalon the Blazing
+ThunderTalon the Stormborn
+ThunderTalonWarden
+ThunderWing
+ThunderWingSlayer
+ThunderWingWarden
+ThunderWrath
+ThunderWrathChampion
+ThunderWrathChampion the Scorched
+ThunderWrathGuardian
+ThunderWrathLord the Searing
+ThunderWrathQueen the Ashen
+WildBane
+WildBane the Fiery
+WildBlade
+WildBladeFiend
+WildBornKnight
+WildBornLord the Scorched
+WildBreaker
+WildBreaker the Ashen
+WildBreaker the Flaming
+WildBreakerStorm the Cindering
+WildClaw
+WildFang
+WildFangs
+WildFireMage
+WildFlame
+WildFlame the Flaming
+WildFlameGuardian the Fiery
+WildFlameSentinel
+WildHunterChampion the Blazing
+WildHunterFiend
+WildReaper
+WildScale
+WildScale the Unyielding
+WildShadow
+WildShadow the Flaming
+WildSoul
+WildSoulWarden
+WildStorm
+WildStorm the Thunderous
+WildStormKnight
+WildStormVanguard
+WildStrike
+WildStrike the Searing
+WildTalon
+WildTalonFiend
+WildTalonQueen
+WildWing the Stormborn
+WildWingBlade
+WildWingChampion
+WildWingLord the Fiery
+WildWingStorm
+WildWrathSlayer the Flaming
+WildWrathVanguard
+WildWrathWarrior
